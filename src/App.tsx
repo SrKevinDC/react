@@ -11,7 +11,7 @@ function App() {
                     Kevin Sepulveda
                 </p>
                 <p>
-                    Cris Rico
+                    Cris el qlo Rico
                 </p>
                 <a
                     className="App-link"
