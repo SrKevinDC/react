@@ -12,6 +12,7 @@ function App() {
                 </p>
                 <p>
                     Cris el qlo Rico
+                    Sexoooo
                 </p>
                 <a
                     className="App-link"
